@@ -1,0 +1,6 @@
+{
+	"files.associations": {
+		"ft_strncmp.h": "c",
+		"string.h": "c"
+	}
+}
